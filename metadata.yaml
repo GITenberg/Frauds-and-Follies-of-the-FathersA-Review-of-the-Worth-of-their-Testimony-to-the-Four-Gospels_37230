@@ -1,0 +1,31 @@
+_repo: Frauds-and-Follies-of-the-FathersA-Review-of-the-Worth-of-their-Testimony-to-the-Four-Gospels_37230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, J. M. (Joseph Mazzini)
+    aliases:
+    - Wheeler, Joseph M.
+    - Wheeler, Joseph Mazzini
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '39852'
+    url: http://www.gutenberg.org/2009/agents/39852
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcc 'BX'
+- !lcsh 'Fathers of the church'
+title: "Frauds and Follies of the Fathers\r\nA Review of the Worth of Their Testimony\
+  \ to the Four Gospels"
+url: http://www.gutenberg.org/ebooks/37230
